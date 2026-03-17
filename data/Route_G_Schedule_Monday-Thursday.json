@@ -1,0 +1,86 @@
+[
+    {
+        "715 Broadway Departure": "-",
+        "80 Lafayette St.": "-",
+        "Morton & Greenwich": "7:30 AM",
+        "715 Broadway Arrival": "7:45 AM"
+    },
+    {
+        "715 Broadway Departure": "-",
+        "80 Lafayette St.": "-",
+        "Morton & Greenwich": "8:00 AM",
+        "715 Broadway Arrival": "8:15 AM"
+    },
+    {
+        "715 Broadway Departure": "-",
+        "80 Lafayette St.": "-",
+        "Morton & Greenwich": "8:30 AM",
+        "715 Broadway Arrival": "8:45 AM"
+    },
+    {
+        "715 Broadway Departure": "-",
+        "80 Lafayette St.": "-",
+        "Morton & Greenwich": "9:00 AM",
+        "715 Broadway Arrival": "9:15 AM"
+    },
+    {
+        "715 Broadway Departure": "10:15 AM",
+        "80 Lafayette St.": "-",
+        "Morton & Greenwich": "10:30 AM",
+        "715 Broadway Arrival": "10:45 AM"
+    },
+    {
+        "715 Broadway Departure": "11:00 AM",
+        "80 Lafayette St.": "-",
+        "Morton & Greenwich": "11:15 AM",
+        "715 Broadway Arrival": "11:30 AM"
+    },
+    {
+        "715 Broadway Departure": "11:45 AM",
+        "80 Lafayette St.": "-",
+        "Morton & Greenwich": "12:00 PM",
+        "715 Broadway Arrival": "12:15 PM"
+    },
+    {
+        "715 Broadway Departure": "12:30 PM",
+        "80 Lafayette St.": "-",
+        "Morton & Greenwich": "12:45 PM",
+        "715 Broadway Arrival": "1:00 PM"
+    },
+    {
+        "715 Broadway Departure": "1:15 PM",
+        "80 Lafayette St.": "-",
+        "Morton & Greenwich": "1:30 PM",
+        "715 Broadway Arrival": "1:45 PM"
+    },
+    {
+        "715 Broadway Departure": "2:40 PM",
+        "80 Lafayette St.": "-",
+        "Morton & Greenwich": "2:55 PM",
+        "715 Broadway Arrival": "3:10 PM"
+    },
+    {
+        "715 Broadway Departure": "4:10 PM",
+        "80 Lafayette St.": "-",
+        "Morton & Greenwich": "4:25 PM",
+        "715 Broadway Arrival": "4:40 PM"
+    },
+    {
+        "715 Broadway Departure": "6:55 PM",
+        "80 Lafayette St.": "-",
+        "Morton & Greenwich": "7:10 PM",
+        "715 Broadway Arrival": "7:25 PM"
+    },
+    {
+        "715 Broadway Departure": "9:00 PM",
+        "80 Lafayette St.": "9:10 PM",
+        "Morton & Greenwich": "9:25 PM",
+        "715 Broadway Arrival": "9:35 PM"
+    },
+    {
+        "715 Broadway Departure": "10:15 PM",
+        "80 Lafayette St.": "10:42 PM",
+        "Morton & Greenwich": "10:42 PM",
+        "715 Broadway Arrival": "10:52 PM"
+    }
+]
