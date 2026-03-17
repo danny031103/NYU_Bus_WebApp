@@ -42,16 +42,6 @@ NYU_BUS_Web_App/
     └── ...
 ```
 
-## Running Locally
-
-Because the app fetches local JSON files, it requires a local server (browsers block `file://` fetches).
-
-```bash
-python3 -m http.server 8080
-```
-
-Then open [http://localhost:8080](http://localhost:8080) in your browser.
-
 ## Tech Stack
 
 - Vanilla HTML, CSS, and JavaScript — no frameworks or dependencies
